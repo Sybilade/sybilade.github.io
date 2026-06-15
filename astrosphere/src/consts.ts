@@ -2,7 +2,7 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "Nicco Simonetti | Computational Biologist and Data Scientist",
+  TITLE: "Simonetti | Data Scientist",
   DESCRIPTION: "Utilizing biomedical ethos and discipline to apply Machine Learning Development and Data Science",
   AUTHOR: "Nicco Simonetti",
 }
