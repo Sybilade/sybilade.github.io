@@ -2,27 +2,27 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "Nicco Simonetti | Computational Biologist and Future Bio-Engineer",
-  DESCRIPTION: "Utilizing bioinformatics and computational biology to pioneer lab-on-a-chip and organ-on-a-chip technologies for personalized medicine and space exploration",
+  TITLE: "Nicco Simonetti | Computational Biologist and Data Scientist",
+  DESCRIPTION: "Utilizing biomedical ethos and discipline to apply Machine Learning Development and Data Science",
   AUTHOR: "Nicco Simonetti",
 }
 
 // Work Page
 export const WORK: Page = {
   TITLE: "Research",
-  DESCRIPTION: "Research articles published and in-progress.",
+  DESCRIPTION: "Research articles published and in-progress",
 }
 
 // Blog Page
 export const BLOG: Page = {
   TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
+  DESCRIPTION: "Writing on topics I am passionate about",
 }
 
 // Projects Page 
 export const PROJECTS: Page = {
   TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
+  DESCRIPTION: "Recent projects I have worked on",
 }
 
 // Search Page
@@ -56,26 +56,20 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Email",
     ICON: "email", 
-    TEXT: "markhorn.dev@gmail.com",
-    HREF: "mailto:markhorn.dev@gmail.com",
+    TEXT: "simonettin2002@gmail.com",
+    HREF: "Nicco:simonettin2002@gmail.com",
   },
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    TEXT: "Sybilade",
+    HREF: "https://github.com/Sybilade"
   },
   { 
     NAME: "LinkedIn",
     ICON: "linkedin",
-    TEXT: "markhorn-dev",
-    HREF: "https://www.linkedin.com/in/markhorn-dev/",
-  },
-  { 
-    NAME: "Twitter",
-    ICON: "twitter-x",
-    TEXT: "markhorn_dev",
-    HREF: "https://twitter.com/markhorn_dev",
+    TEXT: "Nicco Simonetti",
+    HREF: "https://www.linkedin.com/in/nicco-simonetti-420777354",
   },
 ]
 
